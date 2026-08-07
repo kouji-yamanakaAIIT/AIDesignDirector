@@ -1,2 +1,4 @@
 # AIDesignDirector
-AIデザインディレクター
+
+AIデザインディレクターのWebアプリケーションです
+
